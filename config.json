@@ -106,7 +106,7 @@
     },
     "help": {
         "autoUnsend": true,
-        "delayUnsend": 120
+        "delayUnsend": 12
     },
     "pokemon": {
         "APIKEY": ""
